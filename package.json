@@ -1,0 +1,19 @@
+{
+  "name": "venbest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.0",
+    "comment-json": "^2.4.1",
+    "inquirer": "^7.0.3",
+    "randomstring": "^1.1.5",
+    "sqlite3": "^4.1.1",
+    "zeromq": "^5.2.0"
+  }
+}
